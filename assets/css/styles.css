@@ -2,6 +2,19 @@
 .about-me {
   text-align: center;
 }
+
+#intro {
+  text-align: center;
+}
+
+#Carousel {
+  text-align: center;
+}
+
+#Locations{
+  text-align: center;
+}
+
 .page-footer{
     position: fixed;
     bottom: 0;
