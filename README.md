@@ -1,2 +1,3 @@
-"Khelo Sport" - Website - A platform for Sports Enthusiasts.
-Built by Pavan.
+# Khelo Sports
+An online platform for sports enthusiasts.
+[Khelo Sports](https://khelo-sports.games/)
