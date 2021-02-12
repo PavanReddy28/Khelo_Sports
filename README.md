@@ -1,4 +1,4 @@
 # Khelo Sports
 An online platform for sports enthusiasts.
 
-[KheloSports](https://khelo-sports.games/)
+Chekc out the webiste [here](https://khelo-sports.games/).
